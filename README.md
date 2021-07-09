@@ -1,1 +1,1 @@
-# jekyll-plantulm-repo
+# Testing the PlantUML integration with GitHub Pages
