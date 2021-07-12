@@ -1,6 +1,5 @@
 title: My training page
 author: GitHub User
-theme: minima
 email: your-email@takeoff.com
 plugins:
   - jekyll-feed
